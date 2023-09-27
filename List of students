@@ -19,4 +19,4 @@ sort_students(students)
 
 # Printing the sorted list of students
 for student in students:
-    print(f"Name: {student.name}, Roll Number: {student.roll_number}, CGPA: {student.cgpa}"
+    print(f"Name: {student.name}, Roll Number: {student.roll_number}, CGPA: {student.cgpa}")
